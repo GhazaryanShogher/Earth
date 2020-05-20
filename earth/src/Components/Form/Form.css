@@ -1,0 +1,13 @@
+.form{
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 490px;
+    margin: 0 auto;
+    color: rgb(240, 222, 190);
+    text-align: center;
+    background-color:rgb(80, 94, 102);
+    border-radius: 7px;
+    border: 2px groove rgb(182, 174, 169);
+  }
+  

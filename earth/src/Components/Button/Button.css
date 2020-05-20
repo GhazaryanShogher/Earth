@@ -1,0 +1,11 @@
+.startBtn{
+    width: 40%;
+    margin:0 auto;
+    border: 2px solid #d6cbc1;
+    color: #eee8e2;
+    background: #021323;
+    border-radius: 40px;
+    padding: 10px;
+    outline: none;
+    cursor: pointer;
+  }
